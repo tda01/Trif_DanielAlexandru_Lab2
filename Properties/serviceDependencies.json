@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Trif_DanielAlexandru_Lab2Context"
+    }
+  }
+}
