@@ -22,5 +22,6 @@ namespace Trif_DanielAlexandru_Lab2.Models
 
         public int? AuthorID { get; set; }
         public Author? Author { get; set; }
+        public ICollection<BookCategory>? BookCategories { get; set; }
     }
 }
